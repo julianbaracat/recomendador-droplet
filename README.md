@@ -21,9 +21,7 @@ recomendador-droplet/
 ├── .env.example # Plantilla para tus credenciales
 ├── run.sh # Script de ejecución en bash
 
-yaml
-Copiar
-Editar
+
 
 ---
 
@@ -75,6 +73,3 @@ Julian Baracat
 📧 julian.baracat@gmail.com
 🌐 Proyecto académico para Computación en la Nube
 
-yaml
-Copiar
-Editar
